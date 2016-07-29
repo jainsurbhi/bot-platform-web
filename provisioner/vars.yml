@@ -1,0 +1,10 @@
+---
+project_name: bot_platform
+project_repo_url: git@github.com:aniketmaithani/bot-platform-web.git
+project_repo_remote: origin
+domain_name: bot_platform.com
+repo_version: master
+python3: False
+py_venv_version: 2.7
+pg_gis: False
+sass_with_django_compressor: True

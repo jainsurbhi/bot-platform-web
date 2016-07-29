@@ -1,0 +1,10 @@
+<html>
+<head>
+<center>
+<form action="/confirmkey/" method="post"> {% csrf_token %}
+     OTP: <input type='text' name='key'>
+     <p><input type="submit" value="Add"></p>
+</form>
+</center>
+</head>
+</html>
